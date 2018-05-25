@@ -1,0 +1,58 @@
+질문 주신 기능은 Emmet의 Wrap with Abbreviation (Shift+Ctrl+G) 입니다.
+작성 과정은 다음과 같습니다.
+
+1. a 요소로 마크업하고자 하는 영역을 드래그 하여 선택한다.
+2. Shift+Ctrl+G 키를 눌러 Wrap with Abbreviation 기능을 실행한다.
+3. a* 를 입력하면 여러 줄로 처리된 글자를 모두(*) a 요소로 감싸게 된다.
+4. Enter 키를 눌러 실행 처리한다.
+
+
+그리고 Emmet 단축키는 아래와 같습니다. :-)
+Mac 이라고 된 부분이 맥북에서 사용 가능한 단축키 입니다.
+
+
+Expand Abbreviation – Tab 또는 Ctrl+E
+
+인터랙티브 “Expand Abbreviation” — Ctrl+Alt+Enter
+
+Match Tag Pair Outward – ⌃D (Mac) / Ctrl+, (PC)
+
+Match Tag Pair Inward – ⌃J / Shift+Ctrl+0
+
+Go to Matching Pair – ⇧⌃T / Ctrl+Alt+J
+
+Wrap With Abbreviation — ⌃W / Shift+Ctrl+G
+
+Go to Edit Point — Ctrl+Alt+→ or Ctrl+Alt+←
+
+Select Item – ⇧⌘. or ⇧⌘, / Shift+Ctrl+. or Shift+Ctrl+,
+
+Toggle Comment — ⇧⌥/ / Shift+Ctrl+/
+
+Split/Join Tag — ⇧⌘' / Shift+Ctrl+`
+
+Remove Tag – ⌘' / Shift+Ctrl+;
+
+Update Image Size — ⇧⌃I / Ctrl+U
+
+Evaluate Math Expression — ⇧⌘Y / Shift+Ctrl+Y
+
+Reflect CSS Value – ⇧⌘R / Shift+Ctrl+R
+
+Encode/Decode Image to data:URL – ⇧⌃D / Ctrl+'
+
+Rename Tag – ⇧⌘K / Shift+Ctrl+'
+
+Increment/Decrement Number actions:
+
+Increment by 1: Ctrl+↑
+
+Decrement by 1: Ctrl+↓
+
+Increment by 0.1: Alt+↑
+
+Decrement by 0.1: Alt+↓
+
+Increment by 10: ⌥⌘↑ / Shift+Alt+↑
+
+Decrement by 10: ⌥⌘↓ / Shift+Alt+↓
